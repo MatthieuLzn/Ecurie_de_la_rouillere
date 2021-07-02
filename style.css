@@ -8,14 +8,18 @@ html {
     bottom: 0;
     width: 100%;
     height: 80px;
-    background: #051467;
+    background: rgb(5,20,103,0.9);
     color: #FFFFFF;
     padding-left: 390px;
 }
 
 
 
-
+#name
+{
+    font-family: 'Dancing Script', cursive;
+    
+}
 
 .carousel-indicators {
     position: absolute;
@@ -35,7 +39,7 @@ html {
 
 .navbar-default
 {
-    background-color: #051467;
+    background-color: rgb(5,20,103,0.85);
 }
 
 .navbar-toggler
